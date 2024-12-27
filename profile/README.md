@@ -1,4 +1,4 @@
-## AI Innovations
+## Hello 👋
 
 - Based in Tokyo
 - Building SaaS
