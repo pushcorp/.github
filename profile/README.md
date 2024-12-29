@@ -2,5 +2,5 @@
 
 - Based in Tokyo
 - Building SaaS
-- [Website](https://ai-innovations.push.co.jp)
+- [Website](https://ai-innovations.jp)
 - [Blog](https://push.co.jp)
